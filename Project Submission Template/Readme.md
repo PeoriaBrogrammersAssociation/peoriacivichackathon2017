@@ -5,7 +5,13 @@ to us as part of the final process for judging the hackathon.
 
 ## Description
 
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the challenge statement.
+Our tool gives Peoria Public Works the ability to do multi-platform broadcasting of current and planned construction projects.  
+By sending coordinates of construction zones (beginning and end street intersections) plus affected duration to Maps Service Providers (Google, Apple, Waze, etc.) 
+and Social Media Outlets, users can be led from a link in perhaps Facebook or Twitter to Google Maps, where they can see more information about a particular project 
+as well as other construction zones in the city.  Or if you're using Navigation while traveling, your route may be adjusted accordingly or be informed of, for example, 
+blocked meters upon arrival in case of city events so you won't accidentally park in a tow zone.  Many cities (over 100 now) are uploading their local data to Waze, 
+from Rio de Janeiro (the first partner with Waze is really excited about rerouting traffic around garbage pickup) to Boston to Bloomington, IL; 
+our proposal also serves those who choose not to download Waze. As an example, we'll be using Google Maps Places API to illustrate this application's work flow.
 
 ## Screenshots
 
@@ -13,12 +19,15 @@ If possible, provide a couple screenshots of your project. You can use a tool li
 
 ## Data/APIs used
 
-If relevant, provide a list of Data and APIs you used in this project.
+Google Geocoder API
+Google Places API
+Civic Data for Arteial Reconstruction and 2017 Pavement Projects
 
 ## Team Members
 
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
-+ [name-of-a-team-member](URL to this member's github account)
+Vijaya Achanta    vijaya.achanta@gmail.com  
+Brian Anderson   bpa@notionovus.com
+David Brennan     dbrennan.engineering@gmail.com
+Matthew Guttag   maguttag@gmail.com
+Cynthia Hsieh      heycyn@gmail.com
+Lucy Wen           xwen3@illinois.edu

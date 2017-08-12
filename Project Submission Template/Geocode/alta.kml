@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Construction</name>
+<description>Completed on 9/31/2017</description>
+<Style id="style5">
+<LineStyle>
+<color>6414F0FF</color>
+<width>30</width>
+</LineStyle>
+</Style>
+<Style id="style6">
+<LineStyle>
+<color>64FF78F0</color>
+<width>30</width>
+</LineStyle>
+</Style>
+<Style id="icon"> <IconStyle> <Icon> <href>OrangeCone_Hackathon-02.png</href> </Icon> </IconStyle> </Style><Placemark>
+<name>Optimal Path</name>
+<description>Optimal Path</description>
+<styleUrl>#style5</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+-89.6127692,40.73272499999999,0.0
+-89.6128009,40.7251671,0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>TSP Path</name>
+<description>TSP Approximation Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates></coordinates>
+</LineString>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6127692,40.73272499999999,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6128009,40.7251671,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Optimal Path</name>
+<description>Optimal Path</description>
+<styleUrl>#style5</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+-89.6035045,40.7118417,0.0
+-89.6033929,40.7177459,0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>TSP Path</name>
+<description>TSP Approximation Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates></coordinates>
+</LineString>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6035045,40.7118417,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6033929,40.7177459,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Optimal Path</name>
+<description>Optimal Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+-89.6249498,40.7256546,0.0
+-89.584041,40.72476839999999,0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>TSP Path</name>
+<description>TSP Approximation Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates></coordinates>
+</LineString>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6249498,40.7256546,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.584041,40.72476839999999,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Optimal Path</name>
+<description>Optimal Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+-89.6230382,40.6813434,0.0
+-89.6232718,40.6693874,0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>TSP Path</name>
+<description>TSP Approximation Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates></coordinates>
+</LineString>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6230382,40.6813434,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6232718,40.6693874,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name>Optimal Path</name>
+<description>Optimal Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+-89.6035694,40.7075795,0.0
+-89.6035045,40.7118417,0.0
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<name>TSP Path</name>
+<description>TSP Approximation Path</description>
+<styleUrl>#style6</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates></coordinates>
+</LineString>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6035694,40.7075795,0.0
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<styleUrl>#icon</styleUrl>
+<Point>
+<coordinates>-89.6035045,40.7118417,0.0
+</coordinates>
+</Point>
+</Placemark></Document>
+</kml>

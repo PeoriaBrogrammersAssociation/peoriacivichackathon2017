@@ -1,0 +1,194 @@
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\ApplicationInsights.config
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\csc.exe
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\vbc.exe
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\VBCSCompiler.exe
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\PeoriaCity.dll.config
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\PeoriaCity.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\PeoriaCity.pdb
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Antlr3.Runtime.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\EntityFramework.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\EntityFramework.SqlServer.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Web.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.ApplicationInsights.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Newtonsoft.Json.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Owin.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Net.Http.Formatting.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Helpers.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Http.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Http.WebHost.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Mvc.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Optimization.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Providers.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Razor.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Deployment.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Razor.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\WebGrease.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Web.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.ApplicationInsights.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Optimization.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Antlr3.Runtime.pdb
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Newtonsoft.Json.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Razor.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Deployment.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Razor.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Helpers.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Mvc.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Net.Http.Formatting.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Http.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Http.WebHost.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\EntityFramework.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\EntityFramework.SqlServer.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\System.Web.Providers.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.csprojResolveAssemblyReference.cache
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.dll
+c:\users\vijay\documents\visual studio 2015\Projects\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.pdb
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\ApplicationInsights.config
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\csc.exe
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\System.Collections.Immutable.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\vbc.exe
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\VBCSCompiler.exe
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\roslyn\VBCSCompiler.exe.config
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\PeoriaCity.dll.config
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\PeoriaCity.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\PeoriaCity.pdb
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Antlr3.Runtime.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\AspNet.ScriptManager.jQuery.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\EntityFramework.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\EntityFramework.SqlServer.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Web.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.WindowsServer.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.ApplicationInsights.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Google.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Web.Infrastructure.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Newtonsoft.Json.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Owin.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Net.Http.Formatting.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Helpers.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Http.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Http.WebHost.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Mvc.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Optimization.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Providers.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Razor.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Deployment.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Razor.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\WebGrease.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.Web.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AI.WindowsServer.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.ApplicationInsights.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Optimization.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Antlr3.Runtime.pdb
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Newtonsoft.Json.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Razor.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Deployment.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Webpages.Razor.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Helpers.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Mvc.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Net.Http.Formatting.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Http.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Http.WebHost.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\EntityFramework.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\EntityFramework.SqlServer.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\System.Web.Providers.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Google.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Hackathon\final\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.csprojResolveAssemblyReference.cache
+C:\Hackathon\final\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.dll
+C:\Hackathon\final\PeoriaCity\PeoriaCity\obj\Debug\PeoriaCity.pdb
